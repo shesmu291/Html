@@ -1,0 +1,14 @@
+.kr {
+  margin: 20% auto;
+}
+#content {
+  float:left;
+  width:700px;
+  border-left: 260px solid #555;
+}
+#sidebar {
+  float: left;
+  width:260px;
+  margin-right: -260px;
+  position: relative;
+}
