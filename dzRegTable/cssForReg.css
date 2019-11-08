@@ -1,0 +1,57 @@
+.block{
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    padding:  10% 0;
+    margin: 15% 0;
+}
+#classp{
+    margin: 0 35%;
+    font-size: 100%;
+    font-family: "Comic Sans MS";
+}
+input{
+    width: 70%;
+    margin: 7% 15%;
+    border: none;
+    padding: 1px 7px;
+    border-bottom: solid 2px gray;
+    outline:none;
+}
+.Registr{
+    background-color: #e3e2cc;
+}
+#btnResistr{
+    border-radius: 30px;
+    background: linear-gradient(to right, deepskyblue, deeppink);
+    width: 80%;
+    margin: 5% 10% 50%;
+}
+.reg{
+    font-size: 70%;
+    padding: 0 12%;
+}
+.reg a{
+    color: #007bff;
+}
+#classContainer{
+    padding: 0;
+}
+TABLE {
+    margin: 1% ;
+    width: 100%; /* Ширина таблицы */
+    border: white; /* Рамка вокруг таблицы (между столбцами)*/
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    border-style: hidden;
+
+    
+}
+TD {
+    color: #222;
+    font-family:;
+    text-align: ct; /* Выравнивание по центру */
+    border-bottom: 1px solid #9F9F9F; /* Линия внизу ячейки */
+}
+TD, TH {
+    padding: 10px; /* Поля вокруг содержимого ячейки */
+    text-align: left;
