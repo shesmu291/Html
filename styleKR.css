@@ -1,0 +1,10 @@
+.container .col{
+    background-color: lightcyan;
+    border: 1px solid #519c9c;
+    cursor: pointer;
+    float: left;
+    font-size: 100px;
+    height: 148px;
+    text-align: center;
+    width: 148px;
+}
